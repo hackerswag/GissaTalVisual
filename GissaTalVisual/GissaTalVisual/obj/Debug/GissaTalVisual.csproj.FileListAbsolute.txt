@@ -1,0 +1,10 @@
+C:\Users\emileneroth\source\repos\GissaTalVisual\GissaTalVisual\GissaTalVisual\bin\Debug\GissaTalVisual.exe.config
+C:\Users\emileneroth\source\repos\GissaTalVisual\GissaTalVisual\GissaTalVisual\bin\Debug\GissaTalVisual.exe
+C:\Users\emileneroth\source\repos\GissaTalVisual\GissaTalVisual\GissaTalVisual\bin\Debug\GissaTalVisual.pdb
+C:\Users\emileneroth\source\repos\GissaTalVisual\GissaTalVisual\GissaTalVisual\obj\Debug\GissaTalVisual.csprojAssemblyReference.cache
+C:\Users\emileneroth\source\repos\GissaTalVisual\GissaTalVisual\GissaTalVisual\obj\Debug\GissaTalVisual.Form1.resources
+C:\Users\emileneroth\source\repos\GissaTalVisual\GissaTalVisual\GissaTalVisual\obj\Debug\GissaTalVisual.Properties.Resources.resources
+C:\Users\emileneroth\source\repos\GissaTalVisual\GissaTalVisual\GissaTalVisual\obj\Debug\GissaTalVisual.csproj.GenerateResource.cache
+C:\Users\emileneroth\source\repos\GissaTalVisual\GissaTalVisual\GissaTalVisual\obj\Debug\GissaTalVisual.csproj.CoreCompileInputs.cache
+C:\Users\emileneroth\source\repos\GissaTalVisual\GissaTalVisual\GissaTalVisual\obj\Debug\GissaTalVisual.exe
+C:\Users\emileneroth\source\repos\GissaTalVisual\GissaTalVisual\GissaTalVisual\obj\Debug\GissaTalVisual.pdb
